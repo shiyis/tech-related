@@ -1,3 +1,3 @@
 # tech-related
 
-This repo will host content related to generate tech related resources and info.
+This repo will host content related to general tech related resources and info.
